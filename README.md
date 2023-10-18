@@ -1,5 +1,11 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi , I'm Alexia </h1>
+  <img width=35 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+</div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Web+Development+Student;Multiplatform+Developer;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <!--
 **ArinoMichi/ArinoMichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

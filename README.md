@@ -9,9 +9,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Zan-40/">
+<a href="https://github.com/ArinoMichi/">
   <img src="https://github-readme-stats.vercel.app/api?username=ArinoMichi&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=f4f4f4&icon_color=75485E&text_color=ffffff&bg_color=0,24292e,222034" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArinoMichi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=2234AE&text_color=ffffff&bg_color=0,24292e,222034" width="400"  alt="Zan-40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArinoMichi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=2234AE&text_color=ffffff&bg_color=0,24292e,222034" width="400"  alt="ArinoMichi"/>
 
 </a>
 </div>

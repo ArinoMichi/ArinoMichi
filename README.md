@@ -1,6 +1,5 @@
 <div align="center">
 <h1 color="brown">Hi , I'm Alexia </h1>
-  <img width=350 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 <p align="center">
